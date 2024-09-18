@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Basic": [
+      "basic/setup",
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          "basic/getting-started/basic_type_example"
+        ]
+      }
+    ]
+  }
+}

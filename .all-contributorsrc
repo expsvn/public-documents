@@ -1,0 +1,27 @@
+{
+  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ntechdevelopers",
+      "name": "Exps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15828583?v=4",
+      "profile": "https://github.com/ntechdevelopers",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Exps Notebooks",
+  "projectOwner": "Notebooks",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitType": "docs"
+}
