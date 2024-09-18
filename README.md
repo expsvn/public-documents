@@ -6,11 +6,11 @@ Notebooks for experienced developers getting started
 
 ## Website
 
-- [ntechdevelopers.netlify.app](https://ntechdevelopers.netlify.app/) 
+- [ntechdevelopers.netlify.app](https://exps.netlify.app/) 
 
 ## Deployment Server
 
-- [app.netlify.com](https://app.netlify.com/teams/ntechdevelopers/sites) 
+- [app.netlify.com](https://app.netlify.com/sites/exps/overview) 
 
 ## Contributors
 
